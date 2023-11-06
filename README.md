@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourabh Burman</h1>
+<h1 align="center" style="color:green;">Hi 👋, I'm Sourabh Burman</h1>
 <h3 align="center">Crafting Code, Shaping Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhburman&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhburman" /> </p>
