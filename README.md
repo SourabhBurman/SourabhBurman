@@ -1,6 +1,7 @@
-<h1 align="center" style="color:green;">Hi 👋, I'm Sourabh Burman</h1>
+<img src="https://miro.medium.com/v2/resize:fit:679/1*xZrSvUrS-6zQQBfevGed2w.gif" align="center" style="height:200px; width:1000px;">
+<h1 align="center">Hi 👋, I'm Sourabh Burman</h1>
 <h3 align="center">Crafting Code, Shaping Experiences</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhburman&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhburman" /> </p>
 
 - 💬 Ask me about **HTML, CSS, Mongo DB, SQL.**
